@@ -6,3 +6,5 @@ The application is based on the application from the getting started tutorial at
 
 docker compose up -d# todo-app-docker
 # todo-app-docker
+command 
+docker compose up --d
